@@ -1,0 +1,52 @@
+#+title: Day 1 - Introduction Knowledge & Skill to Become a Blockchain Developer
+
+* Soft Skill
+ + English
+ + =Reading Documents=
+ + Community
+ + Building Experience CV
+ + Algorithmic Thinking
+   - Algorithm & Data Structure Made Easy
+   - Cracking The Coding Interview
+
+* Hard Skill
+ + Languages
+   - HTML5/CSS3 (for now)
+   - =Javascript= (for now)
+     + Course: Youtube
+     + Book: [[https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly/dp/144934013X][Head First JavaScript Programming: A Brain-Friendly Guide]]
+   - Solidity (for now)
+     + Course: [[https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA][Smart Contract Programming]]
+     + Book: [[https://www.amazon.com/Mastering-Blockchain-Programming-Solidity-production-ready/dp/1839218266/ref=sr_1_5?crid=1F95OBOVAJPB6&keywords=solidity&qid=1662777784&sprefix=so%2Caps%2C833&sr=8-5][Mastering blockchain Programming with Solidity]]
+
+   - Typescript/Rust (for future)
+     + Course: [[https://www.youtube.com/playlist?list=PLFnEYduGTiXE2ejxmzTIraP2feI-pmeuw][Rust Languages]]
+     + Book: [[https://doc.rust-lang.org/book/][Rust Book]] -> [[https://doc.rust-lang.org/rust-by-example/][Rust by Examples]] -> [[https://rust-lang-nursery.github.io/rust-cookbook/][Rust CookBook]]
+
++ Knowledge
+ + Node.Js
+ + React.Js -> Next.Js
+ + Redux - Redux Saga (Advanced)
+
++ Expand Knowledge
+ + Computing Network
+ + Operating Systems
+
+* BootCamp
+- Solidity (Maybe)
+- [[https://eth.build][Eth.Build]]
+- Non-Fungible Token Marketplace
+- Decentralized Exchange
+
+* Courses
+- [[https://buildspace.so/p/build-solidity-web3-app][BuildSpace]]
+- [[https://www.30daysofweb3.xyz/][30 Days of Web3]]
+- [[https://web3.coach/][Web3 Coach]] - Building a Blockchain from Scratch with Go Languages
+
+* Learn to Earn - DAO
+- [[https://dacade.org/][Dacade]]
+- [[https://www.pointer.gg/][Pointer]]
+- [[https://app.rabbithole.gg/][RabbitHole]]
+- [[https://beta.layer3.xyz/bounties][Layer3]]
+- [[https://gitcoin.co/explorer?network=mainnet&idx_status=open&applicants=ALL&order_by=-web3_created][Gitcoin]]
+- [[https://app.dework.xyz/bounties][Dework]]
